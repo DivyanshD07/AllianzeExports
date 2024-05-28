@@ -193,7 +193,7 @@ export default function leaderBoard() {
                                 </div>
                                 <p className="opacity-50 text-sm">Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
                             </div>
-                            <div>
+                            <div className="text-sm">
                                 <button className="py-2 px-3 bg-violet-600">
                                     Weekly
                                 </button>
